@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prática 01</title>
+</head>
+<body>
+    <header align="center"><big>Currículo</big></header>
+        <h1 align="center"><a name="dadospessoais">Dados Pessoais</a></h1>
+        <br>
+          <img height="150" src="minhafoto.jpeg">
+          <hr>
+          <p>Nome: Anderson Adriano Marchi</p>
+          <hr>
+          <p>Idade: 20 Anos</p>
+          <hr>
+          <p>Altura: 1 metro e 82 centímetros</p>
+          <hr>
+        <h1 align="center"><a name="capacitacoes">Capacitações</a></h1>
+           <hr>
+           <p>1 ano de curso de manutenção de computadores e redes</p>
+           <hr>
+           <p>Cursando a 4 fase da graduação de sistemas de informação</p>
+           <hr>
+        <h1 align="center"><a name="conquistas">Conquistas Pessoais</a></h1>
+           <main><blockquote>Lorem ipsum sit amet consectetur adipisicing elit. Ea soluta, ipsum, facere sint vero, mollitia neque nulla ad ipsa laudantium at veniam tempore inventore eligendi perspiciatis dolores cumque voluptatum! Delectus. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta rerum facilis quod impedit odit tempora, magnam dolores quo est iste dolorem quam assumenda beatae provident eveniet perferendis, reprehenderit, esse earum! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit ea eveniet corporis fuga ratione. Eos, neque fugiat magnam minima dolore nihil molestias modi dolor hic aspernatur quibusdam, suscipit quos? Alias. Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, quae et fuga tempora labore itaque a, repellat corrupti omnis tempore pariatur beatae veritatis eos, odio necessitatibus assumenda voluptatum dicta harum? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam ullam doloremque eaque odit quasi veniam repudiandae rerum voluptatum impedit velit, inventore iure provident in. Veniam ut eveniet provident maxime vero.</blockquote></main>          
+        <hr>
+        <h1 align="center"><a name="apresentacao">Vídeo de Apresentação</a></h1>
+        <iframe width="590" height="350" src="https://www.youtube.com/embed/xvFZjo5PgG0?si=dRqWdLJjTJxLO6YT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+    <footer>
+        <h1 align="center"><a name="contatos">Contatos</a></h1>
+        <hr>
+        <p>E-mail:<a href="mailto:anderson.marchi@unidavi.edu.br subject=subject text">anderson.marchi@unidavi.edu.br</a></p>
+        <hr>
+        <p>Telefone: (47) 98894-8706</p>
+        <hr>
+        <p><a href="https://www.instagram.com/"><img src="insta.png" height="70px"></a></p>
+        <hr>
+        <h3 align="center"><italic>Referências</italic></h3>
+        <nav>
+            <ol>
+                <li><a href="#dadospessoais">Dados Pessoais</a></li>
+                <li><a href="#capacitacoes">Capacitações</a></li>
+                <li><a href="#conquistas">Conquistas Pessoais</a></li>
+                <li><a href="#apresentacao">Vídeo de Apresentação</a></li>
+                <li><a href="#contatos">Contatos</a></li>
+            </ol>
+        </nav>
+    </footer>
+</html>
